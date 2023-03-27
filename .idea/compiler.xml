@@ -12,5 +12,8 @@
         <module name="alura-stickers" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="imdb-api" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
